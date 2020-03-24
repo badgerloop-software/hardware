@@ -32,6 +32,46 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Overlay
+      File : precharge.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 2
+      File : precharge.GP2
+
+    Adding Layer      : Internal Plane 2
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D41
+    D51
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
 Generating : Bottom Paste
       File : precharge.GBP
 
@@ -49,109 +89,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Internal Plane 1
-      File : precharge.GP1
+Generating : Bottom Solder
+      File : precharge.GBS
 
-    Adding Layer      : Internal Plane 1
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D44
-    D51
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : precharge.GTO
-
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : precharge.GBL
 
     Adding Layer      : Bottom Layer
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D17
-    D49
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : precharge.GM4
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : precharge.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : precharge.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Board Outline
-
-    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
@@ -159,18 +104,6 @@ Generating : Top Solder
 Used DCodes :
     D10
     D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
     D41
     D42
     D43
@@ -221,21 +154,33 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : precharge.GBS
+Generating : Top Solder
+      File : precharge.GTS
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Solder
 
     Adding Layer      : Board Outline
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D10
+    D28
+    D29
     D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
     D41
     D42
     D43
@@ -247,10 +192,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Internal Plane 2
-      File : precharge.GP2
+Generating : Board Outline
+      File : precharge.GM4
 
-    Adding Layer      : Internal Plane 2
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 1
+      File : precharge.GP1
+
+    Adding Layer      : Internal Plane 1
 
     Adding Layer      : Board Outline
 
@@ -259,7 +217,7 @@ Generating : Internal Plane 2
 
 Used DCodes :
     D10
-    D44
+    D41
     D51
     D60
     D61
@@ -271,5 +229,47 @@ Used DCodes :
     D67
     D68
     D69
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : precharge.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : precharge.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D15
+    D49
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
 *************************************************************
 
