@@ -188,7 +188,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EGNUHWHV
 
 [Document10]
 DocumentPath=..\libraries\ic.SchLib
@@ -225,23 +225,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ENXIHYFJ
 
 [Document12]
-DocumentPath=..\libraries\inductorPcbLib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CHSULYVK
-
-[Document13]
 DocumentPath=..\libraries\misc.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JBDFWHSJ
 
-[Document14]
+[Document13]
 DocumentPath=..\libraries\misc.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DCGEBBGI
 
-[Document15]
+[Document14]
 DocumentPath=connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDGAMGYR
 
-[Document16]
+[Document15]
 DocumentPath=beaglebone.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDDNIAZQ
 
-[Document17]
+[Document16]
 DocumentPath=bus_filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZEFKQSIA
 
-[Document18]
+[Document17]
 DocumentPath=power_5V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GRKSVBJX
 
-[Document19]
+[Document18]
 DocumentPath=power_12V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KOBUKZFG
 
-[Document20]
+[Document19]
 DocumentPath=can_uart.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JSCIQJJS
 
-[Document21]
+[Document20]
 DocumentPath=retros.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYIIFZKC
 
-[Document22]
+[Document21]
 DocumentPath=arduino_shield.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQXDLDWZ
 
-[Document23]
+[Document22]
 DocumentPath=bms_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMQHVVQA
 
-[Document24]
+[Document23]
 DocumentPath=motor_controller_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GJTNECJG
 
-[Document25]
+[Document24]
 DocumentPath=RTC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJVNVXUT
 
-[Document26]
+[Document25]
 DocumentPath=shutdown_circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,7 +462,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJSFVTIY
 
-[Document27]
+[Document26]
 DocumentPath=adc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -496,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PTVJQPLE
 
-[Document28]
+[Document27]
 DocumentPath=battery_interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -513,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGQUXQIH
 
-[Document29]
+[Document28]
 DocumentPath=misc_sensors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -530,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XBSOROBL
 
-[Document30]
+[Document29]
 DocumentPath=batt_protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -547,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IJMPLPUD
 
-[Document31]
+[Document30]
 DocumentPath=gpio.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -564,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QJINVRPF
 
-[Document32]
+[Document31]
 DocumentPath=limit_switches.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,8 +564,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHOYUXBQ
 
-[Document33]
+[Document32]
 DocumentPath=..\libraries\inductor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CHSULYVK
+
+[Document33]
+DocumentPath=main_io.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -599,7 +599,24 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=main_io.OutJob
+DocumentPath=power_28V.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=19
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NPDHHLFJ
+
+[Document35]
+DocumentPath=main_io.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -614,6 +631,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for main_io\Design Rule Check - main_io.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1553,6 +1574,166 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
+UniqueIDPath0=
+DocumentName0=adc.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=
+DocumentName1=arduino_shield.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=2
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=
+DocumentName2=batt_protection.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=3
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=
+DocumentName3=battery_interface.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=4
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=
+DocumentName4=beaglebone.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=5
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=
+DocumentName5=bms_interface.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=6
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=
+DocumentName6=bus_filter.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=7
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=
+DocumentName7=can_uart.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=8
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=
+DocumentName8=connectors.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=9
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=
+DocumentName9=gpio.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=10
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=
+DocumentName10=limit_switches.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=11
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=
+DocumentName11=main_io.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=12
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=
+DocumentName12=misc_sensors.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=13
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=
+DocumentName13=motor_controller_interface.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=14
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=
+DocumentName14=power_5V.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=15
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
+UniqueIDPath15=
+DocumentName15=power_12V.SchDoc
+IsEnabled15=1
+SelectionScope15=All
+Order15=16
+IndexEnabled15=0
+IndexStartValue15=1
+Suffix15=
+UniqueIDPath16=
+DocumentName16=power_28V.SchDoc
+IsEnabled16=1
+SelectionScope16=All
+Order16=17
+IndexEnabled16=0
+IndexStartValue16=1
+Suffix16=
+UniqueIDPath17=
+DocumentName17=retros.SchDoc
+IsEnabled17=1
+SelectionScope17=All
+Order17=18
+IndexEnabled17=0
+IndexStartValue17=1
+Suffix17=
+UniqueIDPath18=
+DocumentName18=RTC.SchDoc
+IsEnabled18=1
+SelectionScope18=All
+Order18=19
+IndexEnabled18=0
+IndexStartValue18=1
+Suffix18=
+UniqueIDPath19=
+DocumentName19=shutdown_circuit.SchDoc
+IsEnabled19=1
+SelectionScope19=All
+Order19=20
+IndexEnabled19=0
+IndexStartValue19=1
+Suffix19=
 
 [PrjClassGen]
 CompClassManualEnabled=0
