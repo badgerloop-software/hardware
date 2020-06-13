@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=main_io.OutJob
 Description=
-TargetOutputMedium=PDF
+TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
 VariantScope=0
 CurrentConfigurationName=
-TargetPrinter=Virtual Printer
+TargetPrinter=HPA7EE86 (HP OfficeJet 4650 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -40,7 +40,7 @@ OutputName1=Schematic Prints
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=1
 OutputEnabled1_OutputMedium3=0
@@ -55,14 +55,14 @@ OutputName2=PCB Prints
 OutputCategory2=Documentation
 OutputDocumentPath2=main_io.PcbDoc
 OutputVariantName2=
-OutputEnabled2=1
+OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
 OutputEnabled2_OutputMedium2=2
 OutputEnabled2_OutputMedium3=0
 OutputEnabled2_OutputMedium4=0
 OutputEnabled2_OutputMedium5=0
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.98|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.67|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration2_Name2=OutputConfigurationParameter2
@@ -137,7 +137,7 @@ OutputName3=Bill of Materials
 OutputCategory3=Report
 OutputDocumentPath3=
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=1
@@ -156,7 +156,7 @@ Configuration3_Item4=Comment=True|Footprint=True
 Configuration3_Name5=SortOrder
 Configuration3_Item5=Designator=Up|Comment=Up|Footprint=Up
 Configuration3_Name6=VisibleOrder
-Configuration3_Item6=Comment=50|Description=50|Designator=50|Digikey P/N=50|Digi-Key Part Number=50|Footprint=50|LibRef=50|Manufacturer P/N=50|Quantity=27
+Configuration3_Item6=Comment=76|Description=76|Designator=76|Digikey P/N=76|Digi-Key Part Number=76|Footprint=76|LibRef=76|Manufacturer P/N=76|Quantity=41
 OutputType4=Gerber
 OutputName4=Gerber Files
 OutputCategory4=Fabrication
@@ -264,7 +264,7 @@ FFmpegPixelFormat4=0
 FFmpegQuality4=80
 WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
-OutputFilePath5=C:\git\braking_io\hardware\braking_io\Gerber\
+OutputFilePath5=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\Gerber\
 ReleaseManaged5=0
 OutputBasePath5=Gerber\
 OutputPathMedia5=
@@ -293,7 +293,7 @@ OpenIPCOutput3=0
 EnableReload3=0
 RelativeOutputPath4=
 OpenOutputs4=1
-RelativeOutputPath5=C:\git\braking_io\hardware\braking_io\Gerber\
+RelativeOutputPath5=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\Gerber\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
