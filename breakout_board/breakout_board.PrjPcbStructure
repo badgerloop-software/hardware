@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=breakout_board.SchDoc
+Record=TopLevelDocument|FileName=breakout_board.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=breakout_board.SchDoc|FileName=connectors.SchDoc|SheetNumber=2
