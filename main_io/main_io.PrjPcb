@@ -632,6 +632,50 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=AB3386B7-8706-4CE2-80EF-9EF886E52D48
+Description=FAB
+AllowFabrication=1
+ParameterCount=0
+VariationCount=36
+Variation1=Designator=R140|UniqueId=\HNJMHLNR|Kind=1|AlternatePart= 
+Variation2=Designator=R70|UniqueId=\IAEGPSFY|Kind=1|AlternatePart= 
+Variation3=Designator=R71|UniqueId=\XFRYGKYG|Kind=1|AlternatePart= 
+Variation4=Designator=R73|UniqueId=\ROGMCGIY|Kind=1|AlternatePart= 
+Variation5=Designator=R74|UniqueId=\QBTMDYCN|Kind=1|AlternatePart= 
+Variation6=Designator=R77|UniqueId=\SOWEOQRX|Kind=1|AlternatePart= 
+Variation7=Designator=R80|UniqueId=\PRFYGOPX|Kind=1|AlternatePart= 
+Variation8=Designator=R82|UniqueId=\UXNGAEKS|Kind=1|AlternatePart= 
+Variation9=Designator=R83|UniqueId=\YIULGKRL|Kind=1|AlternatePart= 
+Variation10=Designator=R84|UniqueId=\XVBWOQJF|Kind=1|AlternatePart= 
+Variation11=Designator=R85|UniqueId=\TAHNGBNY|Kind=1|AlternatePart= 
+Variation12=Designator=R86|UniqueId=\RORJGDRN|Kind=1|AlternatePart= 
+Variation13=Designator=R89|UniqueId=\SIMXESIW|Kind=1|AlternatePart= 
+Variation14=Designator=R109|UniqueId=\OTELTANW|Kind=1|AlternatePart= 
+Variation15=Designator=R121|UniqueId=\PFYUFSHE|Kind=1|AlternatePart= 
+Variation16=Designator=R127|UniqueId=\EUKMAMRN|Kind=1|AlternatePart= 
+Variation17=Designator=R129|UniqueId=\CRVVYCDE|Kind=1|AlternatePart= 
+Variation18=Designator=R130|UniqueId=\HCOKYNMD|Kind=1|AlternatePart= 
+Variation19=Designator=R1|UniqueId=\IQTSDLRA|Kind=1|AlternatePart= 
+Variation20=Designator=R2|UniqueId=\QGDJOABO|Kind=1|AlternatePart= 
+Variation21=Designator=R3|UniqueId=\FUWJMONX|Kind=1|AlternatePart= 
+Variation22=Designator=R4|UniqueId=\FMEFERQR|Kind=1|AlternatePart= 
+Variation23=Designator=R11|UniqueId=\BVCQWQSE|Kind=1|AlternatePart= 
+Variation24=Designator=R12|UniqueId=\KGMGEJSE|Kind=1|AlternatePart= 
+Variation25=Designator=R13|UniqueId=\HTJPMLUG|Kind=1|AlternatePart= 
+Variation26=Designator=R14|UniqueId=\HIWVHAEU|Kind=1|AlternatePart= 
+Variation27=Designator=R16|UniqueId=\WHIOSSLV|Kind=1|AlternatePart= 
+Variation28=Designator=R15|UniqueId=\UANCPERR|Kind=1|AlternatePart= 
+Variation29=Designator=R6|UniqueId=\PUGKAYFH|Kind=1|AlternatePart= 
+Variation30=Designator=R7|UniqueId=\EQXIIKGV|Kind=1|AlternatePart= 
+Variation31=Designator=R19|UniqueId=\CSKCGWUQ|Kind=1|AlternatePart= 
+Variation32=Designator=R20|UniqueId=\VRHGIFGD|Kind=1|AlternatePart= 
+Variation33=Designator=R52|UniqueId=\DGMFVHSU|Kind=1|AlternatePart= 
+Variation34=Designator=R54|UniqueId=\DSILLVVY|Kind=1|AlternatePart= 
+Variation35=Designator=R179|UniqueId=\JILVVHVE|Kind=1|AlternatePart= 
+Variation36=Designator=R182|UniqueId=\UFGHQOWY|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -645,7 +689,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -751,7 +795,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -823,7 +867,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -845,7 +889,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -917,7 +961,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -954,7 +998,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1134,7 +1178,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Server's components states check
@@ -1169,16 +1213,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=BOM_Violations
-OutputName7=BOM Checks Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1225,21 +1264,11 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet 1020
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1364,7 +1393,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1432,7 +1460,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
