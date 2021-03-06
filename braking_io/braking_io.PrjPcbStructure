@@ -1,1 +1,14 @@
-Record=TopLevelDocument|FileName=braking_io.SchDoc
+Record=TopLevelDocument|FileName=braking_io.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=bus_filter.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=mcu.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=power_5V.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=power_7V.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=power_24V.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=pressure.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=retro.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=solenoid.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=solenoid_drv.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=telemetry_adc.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=unity_gain_buffer.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=braking_io.SchDoc|FileName=watchdog.SchDoc|SheetNumber= 

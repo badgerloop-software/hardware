@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=connectors.SchDoc
+Record=TopLevelDocument|FileName=connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=Contactors.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=indicator_light.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=precharge.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=precharge_relays.SchDoc|SheetNumber=4
