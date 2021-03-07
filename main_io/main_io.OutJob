@@ -18,7 +18,7 @@ RevisionNamingSchemeGUID=
 Name=main_io.OutJob
 Description=
 TargetOutputMedium=PDF
-VariantName=FAB
+VariantName=MainIO-DNP
 VariantScope=1
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
@@ -187,7 +187,7 @@ Configuration5_Name1=OutputConfigurationParameter1
 Configuration5_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 
 [PublishSettings]
-OutputFilePath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\.\braking_io.pdf
+OutputFilePath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\.\VariantName.PDF
 ReleaseManaged2=0
 OutputBasePath2=.\
 OutputPathMedia2=
@@ -195,10 +195,10 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=mainIO.pdf
+OutputFileName2=main_io.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=0
-OutputFileNameSpecial2=
+OutputFileNameSpecial2==ProjectName
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -279,7 +279,7 @@ OutputFileNameSpecial5=
 OpenOutput5=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\.\braking_io.pdf
+RelativeOutputPath2=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\.\VariantName.PDF
 OpenOutputs2=1
 RelativeOutputPath3=C:\Users\Windows PC\Desktop\Badgerloop\git_repos\hardware\main_io\Project Outputs for main_io\
 OpenOutputs3=1

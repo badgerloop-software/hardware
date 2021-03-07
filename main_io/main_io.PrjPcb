@@ -634,7 +634,7 @@ DocumentUniqueId=
 
 [ProjectVariant1]
 UniqueID=AB3386B7-8706-4CE2-80EF-9EF886E52D48
-Description=FAB
+Description=MainIO-DNP
 AllowFabrication=1
 ParameterCount=0
 VariationCount=36
