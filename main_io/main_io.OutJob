@@ -18,8 +18,8 @@ RevisionNamingSchemeGUID=
 Name=main_io.OutJob
 Description=
 TargetOutputMedium=PDF
-VariantName=MainIO-DNP
-VariantScope=1
+VariantName=[No Variations]
+VariantScope=0
 CurrentConfigurationName=
 TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
